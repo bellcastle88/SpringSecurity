@@ -6,6 +6,7 @@ Built with:
 
 - Java
 - SpringFramework (SpringSecurity) 
+- JDBC
 - MySQL   
 
 ## Acknowledgments
