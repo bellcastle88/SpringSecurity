@@ -5,6 +5,7 @@ This is a SpringSecurity web for practice
 Built with:
 
 - Java
+- Spring
 - SpringSecurity 
 - MySQL   
 
