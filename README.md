@@ -7,7 +7,7 @@ Built with:
 - Java
 - SpringFramework
 - JDBC
-- MySQL   
+- MySQL     
 
 ## Acknowledgments
 
