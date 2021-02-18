@@ -6,7 +6,7 @@ Built with:
 
 - Java
 - SpringFramework
-- JDBC
+- JDBC 
 - MySQL     
 
 ## Acknowledgments
